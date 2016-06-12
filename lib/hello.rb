@@ -3,5 +3,3 @@
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
-
-puts "This is an extra line"
